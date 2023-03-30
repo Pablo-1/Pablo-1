@@ -6,7 +6,7 @@
 - 📚 I’ve recently completed HyperionDev Software Engineering Coding Bootcamp
 - 💻 Python Developer
 - 📱 If you'd like to reach me please click: [![github](linkedin-icon-small.png)][1]
-- 🖥️ Plese visit my portfolio website and if you are feeling generous please leave feedback: [![django](:white_check_mark:)][2]
+- 🖥️ Plese visit my portfolio website and if you are feeling generous please leave feedback: [!(:white_check_mark:)][2]
 
 [1]:https://www.linkedin.com/in/pawel-gonczarewicz
 [2]:https://django-portfolio-tyr9.onrender.com/
